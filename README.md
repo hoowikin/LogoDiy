@@ -28,6 +28,8 @@ Customize Lenovo PC boot logo (screen) without installing "Lenovo PC Manager".
 
 - IdeaPad 3 15ITL6
 
+- Xiaoxin 15 2020(81YL)
+
 - Feel free to test and add to this list
 
 ## FAQ
